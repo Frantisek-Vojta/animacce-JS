@@ -1,0 +1,18 @@
+CSS použijte, pokud máte menší, samostatné stavy prvků 
+uživatelského rozhraní. Přechody a animace CSS jsou 
+ideální pro zobrazení navigační nabídky ze strany nebo 
+zobrazení nápovědy. K ovládání stavů můžete nakonec použít 
+JavaScript, ale samotné animace budou ve vašem CSS.
+
+
+JavaScript používejte, pokud potřebujete mít nad animacemi 
+výraznou kontrolu. Web Animations API je přístup založený na 
+standardech, který je dnes k dispozici ve většině moderních 
+prohlížečů. To poskytuje skutečné objekty, ideální pro komplexní 
+objektově orientované aplikace. JavaScript je také užitečný, když 
+potřebujete animace zastavit, pozastavit, zpomalit nebo vrátit zpět.
+
+
+
+
+Zdroj: https://web.dev/articles/css-vs-javascript
