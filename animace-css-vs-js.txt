@@ -15,4 +15,4 @@ potřebujete animace zastavit, pozastavit, zpomalit nebo vrátit zpět.
 
 
 
-Zdroj:  https://web.dev/articles/css-vs-javascript
+Zdroj:    https://web.dev/articles/css-vs-javascript
